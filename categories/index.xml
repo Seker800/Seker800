@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on seker.icu</title>
+    <title>Categories on Seker の Intensive Care Unit</title>
     <link>/categories/</link>
-    <description>Recent content in Categories on seker.icu</description>
+    <description>Recent content in Categories on Seker の Intensive Care Unit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Mar 2022 21:55:25 +0800</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blender</title>
+      <link>/categories/blender/</link>
+      <pubDate>Tue, 29 Mar 2022 21:55:25 +0800</pubDate>
+      
+      <guid>/categories/blender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>maya</title>
+      <link>/categories/maya/</link>
+      <pubDate>Tue, 29 Mar 2022 21:55:25 +0800</pubDate>
+      
+      <guid>/categories/maya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UE5</title>
+      <link>/categories/ue5/</link>
+      <pubDate>Tue, 29 Mar 2022 21:55:25 +0800</pubDate>
+      
+      <guid>/categories/ue5/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
