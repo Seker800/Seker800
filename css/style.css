@@ -1,7 +1,7 @@
 /* github-markdown fix */
 @media (prefers-color-scheme: dark) {
     .markdown-body {
-        --color-fg-default: hsla(210, 17%, 82%, 0.85);
+        --color-fg-default: hsla(0, 0%, 85%, 0.85);
         --color-canvas-default: #24282d;
         --color-border-default: #383f47;
         --color-border-muted: #383f47;
@@ -10,7 +10,7 @@
 
 @media (prefers-color-scheme: light) {
     .markdown-body {
-        --color-fg-default: hsla(213, 13%, 16%, 0.85);
+        --color-fg-default: hsla(234, 9%, 22%, 0.85);
     }
 }
 
@@ -30,9 +30,10 @@
 
 /* nav */
 .side-container h1,
+
 header h1,
 footer h2 {
-    margin-bottom: 0 !important;
+    font-size: 3em !important;
 }
 
 .side-container h1,
