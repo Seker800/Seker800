@@ -7,19 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>SEKER.ICU</copyright>
-    <lastBuildDate>Thu, 31 Mar 2022 19:58:09 +0800</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Jul 2020 19:27:08 +0800</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>测试页面</title>
-      <link>/post/%E6%B5%8B%E8%AF%95%E9%A1%B5%E9%9D%A2/</link>
-      <pubDate>Thu, 31 Mar 2022 19:58:09 +0800</pubDate>
+      <title>777</title>
+      <link>/post/777/</link>
+      <pubDate>Tue, 28 Jul 2020 19:27:08 +0800</pubDate>
       
-      <guid>/post/%E6%B5%8B%E8%AF%95%E9%A1%B5%E9%9D%A2/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Executing task in folder hugo2: hugo new post\测试页面.md &amp;lt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;WARN 2022/03/31 19:58:08 Module &amp;ldquo;webstack-hugo-master&amp;rdquo; is not compatible with this Hugo version; run &amp;ldquo;hugo mod graph&amp;rdquo; for more information.
-Content &amp;ldquo;D:\hugo2\seker800\content\post\测试页面.md&amp;rdquo; created&lt;/p&gt;
-&lt;p&gt;终端将被任务重用，按任意键关闭。&lt;/p&gt;</description>
+      <guid>/post/777/</guid>
+      <description>666 1234 Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Heading 1 link Heading link Heading 2 link Heading link Heading 3 link Heading link Heading 4 link Heading link Heading link Heading link Heading 5 link Heading link Heading 6 link Heading link 标题（用底线的形式）Heading (underline) 主要特性</description>
     </item>
     
   </channel>
