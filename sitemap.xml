@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/about/</loc>
+    <lastmod>2020-07-28T19:27:08+08:00</lastmod>
+  </url><url>
     <loc>/%E6%B5%8B%E8%AF%95%E9%A1%B5%E9%9D%A2/</loc>
     <lastmod>2020-07-28T19:27:08+08:00</lastmod>
   </url><url>
@@ -9,9 +12,6 @@
     <lastmod>2020-07-28T19:27:08+08:00</lastmod>
   </url><url>
     <loc>/post/</loc>
-    <lastmod>2020-07-28T19:27:08+08:00</lastmod>
-  </url><url>
-    <loc>/about/</loc>
     <lastmod>2020-07-28T19:27:08+08:00</lastmod>
   </url><url>
     <loc>/post2/</loc>

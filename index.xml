@@ -9,6 +9,15 @@
     <copyright>SEKER.ICU</copyright>
     <lastBuildDate>Tue, 28 Jul 2020 19:27:08 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>...</title>
+      <link>/about/</link>
+      <pubDate>Tue, 28 Jul 2020 19:27:08 +0800</pubDate>
+      
+      <guid>/about/</guid>
+      <description>这是谁做的网站？ 西克在黑黑的帮助下制作的，主要是黑黑在做！ 这个站有啥用? 方便找到设计需要用的网站，减轻工作压力 我需要做什么？ 把这个网站设置为</description>
+    </item>
+    
+    <item>
       <title>66666</title>
       <link>/%E6%B5%8B%E8%AF%95%E9%A1%B5%E9%9D%A2/</link>
       <pubDate>Tue, 28 Jul 2020 19:27:08 +0800</pubDate>
@@ -27,21 +36,12 @@
     </item>
     
     <item>
-      <title>关于本站</title>
-      <link>/about/</link>
-      <pubDate>Tue, 28 Jul 2020 19:27:08 +0800</pubDate>
-      
-      <guid>/about/</guid>
-      <description>这是Hugo版WebStack主题 本项目是基于纯静态的网址导航网站webstack.cc 制作的Hogo主题，主题安装后，将exampleSi</description>
-    </item>
-    
-    <item>
       <title>所有文章</title>
       <link>/post2/</link>
       <pubDate>Tue, 28 Jul 2020 19:27:08 +0800</pubDate>
       
       <guid>/post2/</guid>
-      <description></description>
+      <description>屁都还没写！</description>
     </item>
     
   </channel>
