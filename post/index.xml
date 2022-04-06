@@ -9,12 +9,21 @@
     <copyright>SEKER.ICU</copyright>
     <lastBuildDate>Tue, 28 Jul 2020 19:27:08 +0800</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>777</title>
+      <title>777766</title>
       <link>/post/777/</link>
       <pubDate>Tue, 28 Jul 2020 19:27:08 +0800</pubDate>
       
       <guid>/post/777/</guid>
       <description>666 1234 Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Heading 1 link Heading link Heading 2 link Heading link Heading 3 link Heading link Heading 4 link Heading link Heading link Heading link Heading 5 link Heading link Heading 6 link Heading link 标题（用底线的形式）Heading (underline) 主要特性</description>
+    </item>
+    
+    <item>
+      <title>几何节点的入坑学习菜单</title>
+      <link>/post/%E5%87%A0%E4%BD%95%E8%8A%82%E7%82%B9%E7%9A%84%E5%85%A5%E5%9D%91%E5%AD%A6%E4%B9%A0%E8%8F%9C%E5%8D%95/</link>
+      <pubDate>Tue, 28 Jul 2020 19:27:08 +0800</pubDate>
+      
+      <guid>/post/%E5%87%A0%E4%BD%95%E8%8A%82%E7%82%B9%E7%9A%84%E5%85%A5%E5%9D%91%E5%AD%A6%E4%B9%A0%E8%8F%9C%E5%8D%95/</guid>
+      <description>抽时间整理了一个关于 Blender 几何节点的入坑学习菜单，有点长。（因为踩过的坑实在太多了） 几何节点是 Blender 近年新出的一个节点模块，能快速模拟一些有规律的设</description>
     </item>
     
   </channel>
